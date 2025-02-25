@@ -1,0 +1,17 @@
+[
+    {
+      "title": "Tigre de Bengala",
+      "imageUrl": "https://images.pexels.com/photos/30828153/pexels-photo-30828153/free-photo-of-tigre-de-amur-descansando-en-el-recinto-del-zoologico-de-copenhague.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "El tigre de Bengala es una de las subespecies de tigre más grandes y es nativo de la India."
+    },
+    {
+      "title": "Elefante Africano",
+      "imageUrl": "https://images.pexels.com/photos/1054672/pexels-photo-1054672.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "El elefante africano es el animal terrestre más grande del mundo y es conocido por sus grandes orejas."
+    },
+    {
+      "title": "Águila Calva",
+      "imageUrl": "https://images.pexels.com/photos/53581/bald-eagles-bald-eagle-bird-of-prey-adler-53581.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "description": "El águila calva es el símbolo nacional de los Estados Unidos y es famosa por su distintivo plumaje blanco en la cabeza."
+    }
+  ]  
